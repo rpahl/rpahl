@@ -1,5 +1,5 @@
 ### 👋 About me
-* Hi, I’m Roman Pahl and I have studied computer science (2006) and did my research in the area of statistics and genetic epidemiology (PhD in 2014)
+* Hi, I’m Roman Pahl, studied computer science (2006) and researched in the area of statistics and genetic epidemiology (PhD in 2014).
 * Since 2015, I work at GSK Vaccines where I am currently developing Software mainly with application in statistics in Technical R&D.
 
 ### 💻 Programming
