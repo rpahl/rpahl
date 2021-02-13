@@ -1,10 +1,10 @@
 ### 👋 About me
-* Hi, I’m Roman Pahl and currently develop Software applications at GSK Vaccines Technical R&D.
-* I have studied computer science (2006) and did my research in the area of statistics and genetic epidemiology (PhD in 2014)
+* Hi, I’m Roman Pahl and I have studied computer science (2006) and did my research in the area of statistics and genetic epidemiology (PhD in 2014)
+* Since 2015, I work at GSK Vaccines where I am currently developing Software mainly with application in statistics in Technical R&D.
 
 ### 💻 Programming
 * My main programming language is [R](https://www.r-project.org/) with over 15 years of experience.
-* I have also coded in C++ (see my repository [here](https://github.com/rpahl/permory)), Java and Python and recently start to do some javascript.
+* I have also coded in C++ (see my repository [here](https://github.com/rpahl/permory)), Java and Python and recently started a bit on javascript.
 
 
 
