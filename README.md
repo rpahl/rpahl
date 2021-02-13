@@ -4,7 +4,7 @@
 
 ### 💻 Programming
 * My main programming language is [R](https://www.r-project.org/) with over 15 years of experience.
-* I have also coded in C++ (see my repository [here](https://github.com/rpahl/permory)), Java and Python and recently started a bit on javascript.
+* I have also coded in C++ (e.g. see [here](https://github.com/rpahl/permory)), Java and Python and recently started a bit on javascript.
 
 
 
