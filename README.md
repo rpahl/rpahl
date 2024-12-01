@@ -3,7 +3,7 @@
 * Since 2015, I work at GSK Vaccines where I am currently developing statistical Software with application in Technical R&D.
 
 ### 💻 Programming
-* My main programming language is [R](https://www.r-project.org/) with over 15 years of experience.
+* My main programming language is [R](https://www.r-project.org/) with over 20 years of experience.
 * I have also coded in C++ (e.g. see [here](https://github.com/rpahl/permory)), Java and Python and recently started a bit on javascript.
 
 
